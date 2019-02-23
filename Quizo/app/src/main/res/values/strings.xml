@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Quizo</string>
+    <string name="playGame">Play!</string>
+
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+
+    <string-array name="question_difficulty_array">
+        <item>Any Difficulty</item>
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+    </string-array>
+
+    <string-array name="question_type_array">
+        <item>Any Type</item>
+        <item>Multiple Choice</item>
+        <item>True/False</item>
+    </string-array>
+    <string name="title_activity_questions">QuestionsActivity</string>
+
+</resources>
